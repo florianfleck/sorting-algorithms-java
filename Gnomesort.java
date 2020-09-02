@@ -41,12 +41,12 @@ public class Gnomesort
         return Array;    
     }
     
-    public int ZufallsZahl() {
+    public int RandomNumbers() {
  
-            int zufallZahl = (int)(Math.random()*100); 
+            int randomNumber = (int)(Math.random()*100); 
                                                        
             
-            return zufallZahl;                         
+            return randomNumber;                         
     }
 }
     
