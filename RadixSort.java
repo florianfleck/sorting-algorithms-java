@@ -68,11 +68,6 @@ public class RadixSort
    }
      
  
-   public int RandomNumbers() {
- 
-            int randomNumber = (int)(Math.random()*100); 
-            
-            return randomNumber;
-    }
+  
 }
 
