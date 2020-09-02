@@ -1,18 +1,10 @@
 
-/**
- * Beschreiben Sie hier die Klasse CountingSort.
- * 
- * @author (Ihr Name) 
- * @version (eine Versionsnummer oder ein Datum)
- */
 public class CountingSort
 {
-    // Instanzvariablen - ersetzen Sie das folgende Beispiel mit Ihren Variablen
+    
     int Array[] = new int [100000];
     
-    /**
-     * Konstruktor für Objekte der Klasse CountingSort
-     */
+  
     public CountingSort()
     {
         
