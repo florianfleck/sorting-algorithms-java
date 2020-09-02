@@ -4,9 +4,7 @@ public class Gnomesort
     
     int Array[] = new int [100000];
     
-    /**
-     * Konstruktor für Objekte der Klasse Gnomesort
-     */
+    
     public Gnomesort()
     {
         
