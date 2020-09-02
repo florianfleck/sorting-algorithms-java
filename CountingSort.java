@@ -8,11 +8,7 @@ public class CountingSort
     public CountingSort()
     {
         
-      int b = 0;
-        for(int i=99999; i>=0 ; i--){
-            Array[b] = i;
-            b++;
-        }
+     
     
         
     
@@ -56,10 +52,5 @@ public class CountingSort
 	}
 	return Numbers;
 }
-    public int RandomNumbers() {
- 
-            int randomNumber = (int)(Math.random()*100); 
-            
-            return randomNumber;
-    }
+    
 }
