@@ -9,10 +9,7 @@ public class Gnomesort
     {
         
         
-        for(int i=0; i<=99999 ; i++){
-            Array[i] = i;
-            
-        }
+      
        
         
         long sta = System.nanoTime(); 
@@ -41,13 +38,7 @@ public class Gnomesort
         return Array;    
     }
     
-    public int RandomNumbers() {
- 
-            int randomNumber = (int)(Math.random()*100); 
-                                                       
-            
-            return randomNumber;                         
-    }
+   
 }
     
     
